@@ -1,0 +1,9 @@
+{
+    "name": "web3japp",
+    "description": " ",
+    "repository": " ",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "@adraffy/ens-normalize": "^1.11.0"
+    }
+}
